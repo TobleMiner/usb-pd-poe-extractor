@@ -3367,10 +3367,10 @@ Text Label -4750 6050 0    50   ~ 0
 LED_15V
 Wire Wire Line
 	-4400 6050 -4750 6050
-Text Label -4750 6150 0    50   ~ 0
+Text Label -4750 4650 0    50   ~ 0
 LED_20V
 Wire Wire Line
-	-4400 6150 -4750 6150
+	-4400 4650 -4750 4650
 Text Label -6500 6450 3    50   ~ 0
 LED_12V
 Wire Wire Line
@@ -3410,7 +3410,7 @@ U 1 1 648B5CC7
 P 10550 6350
 F 0 "H1" H 10650 6396 50  0000 L CNN
 F 1 "MountingHole" H 10650 6305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 10550 6350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 10550 6350 50  0001 C CNN
 F 3 "~" H 10550 6350 50  0001 C CNN
 	1    10550 6350
 	1    0    0    -1  
@@ -3421,7 +3421,7 @@ U 1 1 64AFCB3B
 P 10550 6150
 F 0 "H2" H 10650 6196 50  0000 L CNN
 F 1 "MountingHole" H 10650 6105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 10550 6150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 10550 6150 50  0001 C CNN
 F 3 "~" H 10550 6150 50  0001 C CNN
 	1    10550 6150
 	1    0    0    -1  

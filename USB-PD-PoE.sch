@@ -3421,7 +3421,7 @@ U 1 1 64AFCB3B
 P 10550 6150
 F 0 "H2" H 10650 6196 50  0000 L CNN
 F 1 "MountingHole" H 10650 6105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 10550 6150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 10550 6150 50  0001 C CNN
 F 3 "~" H 10550 6150 50  0001 C CNN
 	1    10550 6150
 	1    0    0    -1  
