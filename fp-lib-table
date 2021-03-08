@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Transformer_SMD_TNK)(type KiCad)(uri ${KIPRJMOD}/lib/Transformer_SMD_TNK.pretty)(options "")(descr ""))
+  (lib (name Connector_RJ_Ckmtw)(type KiCad)(uri ${KIPRJMOD}/lib/Connector_RJ_Ckmtw.pretty)(options "")(descr ""))
+  (lib (name Transformer_HanRun)(type KiCad)(uri ${KIPRJMOD}/lib/Transformer_HanRun.pretty)(options "")(descr ""))
+  (lib (name ToolingHole)(type KiCad)(uri ${KIPRJMOD}/lib/ToolingHole.pretty)(options "")(descr ""))
+)
