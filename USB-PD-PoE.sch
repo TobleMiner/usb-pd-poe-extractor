@@ -983,7 +983,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 1750 3350 2000
 $Comp
-L Reference_Voltage:TL431DBZ U4
+L Reference_Voltage:CJ432 U4
 U 1 1 60798E19
 P 6850 2400
 F 0 "U4" V 6896 2331 50  0000 R CNN
