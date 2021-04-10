@@ -3341,10 +3341,8 @@ F 4 "C25924" H -6150 6950 50  0001 C CNN "LCSC"
 $EndComp
 Wire Wire Line
 	-6150 7150 -6150 7100
-Text Label -2650 4650 2    50   ~ 0
+Text Label -2700 5150 2    50   ~ 0
 LED_5V
-Wire Wire Line
-	-3000 4650 -2650 4650
 Text Label -4750 5850 0    50   ~ 0
 LED_9V
 Wire Wire Line
@@ -3658,4 +3656,6 @@ Wire Wire Line
 Connection ~ 16950 2900
 Wire Wire Line
 	16950 3250 16950 3300
+Wire Wire Line
+	-2700 5150 -3000 5150
 $EndSCHEMATC
