@@ -275,7 +275,7 @@ F 0 "U1" H -4250 6500 50  0000 C CNN
 F 1 "STM32F103RBTx" H -3700 4750 50  0000 C CNN
 F 2 "Package_QFP:LQFP-64_10x10mm_P0.5mm" H -4300 3050 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf" H -3700 4750 50  0001 C CNN
-F 4 "C8735" H -3700 4750 50  0001 C CNN "LCSC"
+F 4 "C46034" H -3700 4750 50  0001 C CNN "LCSC"
 	1    -3700 4750
 	1    0    0    -1  
 $EndComp
