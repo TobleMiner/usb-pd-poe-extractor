@@ -22,4 +22,8 @@ $CMP SY8303
 F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8303AIC_C97054.pdf
 $ENDCMP
 #
+$CMP SY8368
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8368QNC_C125897.pdf
+$ENDCMP
+#
 #End Doc Library
