@@ -3,4 +3,6 @@
   (lib (name Connector_RJ_Ckmtw)(type KiCad)(uri ${KIPRJMOD}/lib/Connector_RJ_Ckmtw.pretty)(options "")(descr ""))
   (lib (name Transformer_HanRun)(type KiCad)(uri ${KIPRJMOD}/lib/Transformer_HanRun.pretty)(options "")(descr ""))
   (lib (name ToolingHole)(type KiCad)(uri ${KIPRJMOD}/lib/ToolingHole.pretty)(options "")(descr ""))
+  (lib (name QFN_Silergy)(type KiCad)(uri ${KIPRJMOD}/lib/QFN_Silergy.pretty)(options "")(descr ""))
+  (lib (name Package_QFN_Silergy)(type KiCad)(uri ${KIPRJMOD}/lib/Package_QFN_Silergy.pretty)(options "")(descr ""))
 )
